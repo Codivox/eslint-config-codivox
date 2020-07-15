@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-codivox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESlint configuration for consistent linting rules across Codivox projects",
   "main": "index.js",
   "scripts": {
