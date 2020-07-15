@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-codivox",
+  "version": "0.0.1",
+  "description": "ESlint configuration for consistent linting rules across Codivox projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codivox/eslint-config-codivox.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "codivox",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Inzimam Ul Haq <hi@inhaq.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Codivox/eslint-config-codivox/issues"
+  },
+  "homepage": "https://github.com/Codivox/eslint-config-codivox#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.8"
+  }
+}
